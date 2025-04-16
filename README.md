@@ -1,10 +1,12 @@
 # **Emotion-to-Color Palette Generator 🎨**
 # AI-Powered Emotion Detection and Color Palette Creation
 
-📌 Project Overview
+
+# **📌 Project Overview**
 Emotion-to-Color Palette Generator is an interactive web application that detects emotions from images or webcam captures using AI and generates a matching color palette. It also suggests a Spotify playlist based on the detected emotion, creating a unique and engaging user experience.  
 
-🔥 Features
+
+# **🔥 Features**
 
 ✅ Emotion Detection: Detects dominant emotions (Happy, Sad, Angry, etc.) from uploaded images or webcam snapshots.  
 ✅ Color Palette Generator: Creates a color palette based on the detected emotion.  
@@ -13,7 +15,7 @@ Emotion-to-Color Palette Generator is an interactive web application that detect
 ✅ User-Friendly Interface: Built with Streamlit for seamless interaction.
 
 
-🏗️ Tech Stack
+# **🏗️ Tech Stack**
 
 Frontend: Streamlit  
 AI Model: DeepFace (Emotion Recognition)  
@@ -22,28 +24,29 @@ Visualization: Matplotlib
 API Integration: Spotify API
 
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git
-cd emotion-color-palette-generator
+# **🚀 Installation & Setup**
+#1️⃣ Clone the Repository
+'''git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git'''
 
-2️⃣ Install Dependencies
+'''cd emotion-color-palette-generator'''
+
+# 2️⃣ Install Dependencies
 Ensure you have Python 3.7+ installed, then run:  
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
-3️⃣ Run the Application
+# 3️⃣ Run the Application
 Start the Streamlit app with:  
-streamlit run emotion_palette_app.py
+'''streamlit run emotion_palette_app.py'''
 
-4️⃣ Access the Web App
+# 4️⃣ Access the Web App
 Once the server is running, open your browser and go to:  
-http://localhost:8501
+'''http://localhost:8501'''
 
 
-📌 Usage
+# **📌 Usage**
 1️⃣ Upload an Image or Use Webcam: Choose to upload an image or allow webcam access for a snapshot.2️⃣ Emotion Detection: The app analyzes the image and detects the dominant emotion.3️⃣ View Results: A color palette and a Spotify playlist link are displayed based on the detected emotion.  
 
-🔧 How it Works
+# **🔧 How it Works**
 
 Emotion Detection: DeepFace analyzes the image or webcam snapshot to identify the dominant emotion.  
 Color Palette Generation: Predefined colors mapped to emotions are used to create a palette, displayed via Matplotlib.  
@@ -51,5 +54,5 @@ Spotify Playlist Suggestions: A curated Spotify playlist link is provided based 
 Webcam Mode: Captures a single image for analysis, ensuring a lightweight and efficient process.
 
 
-📜 License
+# **📜 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
