@@ -25,23 +25,31 @@ API Integration: Spotify API
 
 
 **🚀 Installation & Setup**
+
 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git
-
+```
+```bash
 cd emotion-color-palette-generator
-
+```
 2️⃣ Install Dependencies
+
 Ensure you have Python 3.7+ installed, then run:  
+```bash
 pip install -r requirements.txt
+```
 
 3️⃣ Run the Application
 Start the Streamlit app with:  
+```bash
 streamlit run emotion_palette_app.py
+```
 
 4️⃣ Access the Web App
 Once the server is running, open your browser and go to:  
+```bash
 http://localhost:8501
 ```
 
