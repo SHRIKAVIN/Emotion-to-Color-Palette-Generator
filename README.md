@@ -24,24 +24,26 @@ Visualization: Matplotlib
 API Integration: Spotify API
 
 
-# **🚀 Installation & Setup**
+**🚀 Installation & Setup**
 #1️⃣ Clone the Repository
-'''git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git'''
 
-'''cd emotion-color-palette-generator'''
+```bash
+git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git
+
+cd emotion-color-palette-generator
 
 # 2️⃣ Install Dependencies
 Ensure you have Python 3.7+ installed, then run:  
-'''pip install -r requirements.txt'''
+pip install -r requirements.txt
 
 # 3️⃣ Run the Application
 Start the Streamlit app with:  
-'''streamlit run emotion_palette_app.py'''
+streamlit run emotion_palette_app.py
 
 # 4️⃣ Access the Web App
 Once the server is running, open your browser and go to:  
-'''http://localhost:8501'''
-
+http://localhost:8501
+```
 
 # **📌 Usage**
 1️⃣ Upload an Image or Use Webcam: Choose to upload an image or allow webcam access for a snapshot.2️⃣ Emotion Detection: The app analyzes the image and detects the dominant emotion.3️⃣ View Results: A color palette and a Spotify playlist link are displayed based on the detected emotion.  
