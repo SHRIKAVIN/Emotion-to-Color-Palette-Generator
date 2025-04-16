@@ -1,4 +1,4 @@
-# **Emotion-to-Color Palette Generator 🎨**
+# Emotion-to-Color Palette Generator 🎨
 # AI-Powered Emotion Detection and Color Palette Creation
 
 
@@ -25,22 +25,22 @@ API Integration: Spotify API
 
 
 **🚀 Installation & Setup**
-#1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git
 
 cd emotion-color-palette-generator
 
-# 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 Ensure you have Python 3.7+ installed, then run:  
 pip install -r requirements.txt
 
-# 3️⃣ Run the Application
+3️⃣ Run the Application
 Start the Streamlit app with:  
 streamlit run emotion_palette_app.py
 
-# 4️⃣ Access the Web App
+4️⃣ Access the Web App
 Once the server is running, open your browser and go to:  
 http://localhost:8501
 ```
