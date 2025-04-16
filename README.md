@@ -55,8 +55,11 @@ http://localhost:8501
 ```
 
 # **📌 Usage**
+
 1️⃣ Upload an Image or Use Webcam: Choose to upload an image or allow webcam access for a snapshot.
+
 2️⃣ Emotion Detection: The app analyzes the image and detects the dominant emotion.
+
 3️⃣ View Results: A color palette and a Spotify playlist link are displayed based on the detected emotion.  
 
 # **🔧 How it Works**
