@@ -1,5 +1,5 @@
 # Emotion-to-Color Palette Generator 🎨
-# AI-Powered Emotion Detection and Color Palette Creation
+AI-Powered Emotion Detection and Color Palette Creation
 
 
 # **📌 Project Overview**
@@ -54,7 +54,9 @@ http://localhost:8501
 ```
 
 # **📌 Usage**
-1️⃣ Upload an Image or Use Webcam: Choose to upload an image or allow webcam access for a snapshot.2️⃣ Emotion Detection: The app analyzes the image and detects the dominant emotion.3️⃣ View Results: A color palette and a Spotify playlist link are displayed based on the detected emotion.  
+1️⃣ Upload an Image or Use Webcam: Choose to upload an image or allow webcam access for a snapshot.
+2️⃣ Emotion Detection: The app analyzes the image and detects the dominant emotion.
+3️⃣ View Results: A color palette and a Spotify playlist link are displayed based on the detected emotion.  
 
 # **🔧 How it Works**
 
