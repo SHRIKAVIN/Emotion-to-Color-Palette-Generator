@@ -1,5 +1,5 @@
-Emotion-to-Color Palette Generator 🎨
-AI-Powered Emotion Detection and Color Palette Creation
+# **Emotion-to-Color Palette Generator 🎨**
+# AI-Powered Emotion Detection and Color Palette Creation
 
 📌 Project Overview
 Emotion-to-Color Palette Generator is an interactive web application that detects emotions from images or webcam captures using AI and generates a matching color palette. It also suggests a Spotify playlist based on the detected emotion, creating a unique and engaging user experience.  
@@ -24,7 +24,7 @@ API Integration: Spotify API
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/emotion-color-palette-generator.git
+git clone https://github.com/SHRIKAVIN/emotion-color-palette-generator.git
 cd emotion-color-palette-generator
 
 2️⃣ Install Dependencies
