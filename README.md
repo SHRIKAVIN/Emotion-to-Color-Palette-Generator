@@ -1,5 +1,6 @@
 # Emotion-to-Color Palette Generator 🎨
-AI-Powered Emotion Detection and Color Palette Creation
+
+**AI-Powered Emotion Detection and Color Palette Creation**
 
 
 # **📌 Project Overview**
